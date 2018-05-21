@@ -1,0 +1,205 @@
+JSON RECEIVABLES
+
+[
+    {
+        "department": "DEPT OF ED",
+        "status": "COLLECTED BY PSC DCC",
+        "amount": "-24582.57"
+    },
+    {
+        "department": "HRSA",
+        "status": "COLLECTED BY PSC DCC",
+        "amount": "-2075.33"
+    },
+    {
+        "department": "IHS",
+        "status": "COLLECTED BY PSC DCC",
+        "amount": "-1125"
+    },
+    {
+        "department": "ACF",
+        "status": "TREASURY OFFSET/CROSS SERVICING",
+        "amount": "131.31"
+    },
+    {
+        "department": "PSC",
+        "status": "TREASURY OFFSET/CROSS SERVICING",
+        "amount": "0"
+    }
+]
+
+
+RECEIVABLES
+
+https://dmcspatch.psc.gov/dmcswebapp/managementReport/getReceivableReport?fromDate=01012018&toDate=
+
+JSON RECEIVABLES
+
+[
+    {
+        "department": "ACF",
+        "status": "AT PSC DCC",
+        "legalBalance": "364549555.54",
+        "totalCases": "250"
+    },
+    {
+        "department": "ACF",
+        "status": "REPAYMENT/SETTLEMENT",
+        "legalBalance": "8056151.73",
+        "totalCases": "24"
+    },
+    {
+        "department": "ACF",
+        "status": "BANKRUPTCY",
+        "legalBalance": "3733164.02",
+        "totalCases": "5"
+    },
+    {
+        "department": "ACF",
+        "status": "AT PRIVATE COLLECTION AGENCY",
+        "legalBalance": "943140.09",
+        "totalCases": "191"
+    },
+    {
+        "department": "ACF",
+        "status": "AT TREASURY-CROSS SERVICING",
+        "legalBalance": "576458.93",
+        "totalCases": "1100"
+    },
+    {
+        "department": "ACF",
+        "status": "AT DOJ",
+        "legalBalance": "1357754.07",
+        "totalCases": "5"
+    },
+    {
+        "department": "ACF",
+        "status": "AT DEBT REFERRAL SECTION",
+        "legalBalance": "635417.33",
+        "totalCases": "2"
+    },
+    {
+        "department": "CDC",
+        "status": "AT PSC DCC",
+        "legalBalance": "3402839.31",
+        "totalCases": "5"
+    },
+    {
+        "department": "CDC",
+        "status": "REPAYMENT/SETTLEMENT",
+        "legalBalance": "1314.58",
+        "totalCases": "2"
+    },
+    {
+        "department": "CDC",
+        "status": "AT PRIVATE COLLECTION AGENCY",
+        "legalBalance": "16207.1",
+        "totalCases": "9"
+    },
+    {
+        "department": "CDC",
+        "status": "AT TREASURY-CROSS SERVICING",
+        "legalBalance": "47492.95",
+        "totalCases": "11"
+    },
+    {
+        "department": "CMS",
+        "status": "AT PSC DCC",
+        "legalBalance": "74040895.39",
+        "totalCases": "5732"
+    },
+    {
+        "department": "CMS",
+        "status": "AT TREASURY-CROSS SERVICING",
+        "legalBalance": "5895427703.01",
+        "totalCases": "480657"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "AT PSC DCC",
+        "legalBalance": "28143558.79",
+        "totalCases": "503"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "REPAYMENT/SETTLEMENT",
+        "legalBalance": "63341427.22",
+        "totalCases": "875"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "BANKRUPTCY",
+        "legalBalance": "6925635.83",
+        "totalCases": "160"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "AT PRIVATE COLLECTION AGENCY",
+        "legalBalance": "2107958.6",
+        "totalCases": "88"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "AT DOJ",
+        "legalBalance": "303628136.25",
+        "totalCases": "3465"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "AT DEBT REFERRAL SECTION",
+        "legalBalance": "11607203.92",
+        "totalCases": "206"
+    },
+    {
+        "department": "DEPT OF ED",
+        "status": "SKIP TRACE",
+        "legalBalance": "12283021.02",
+        "totalCases": "143"
+    },
+    {
+        "department": "FDA",
+        "status": "AT PSC DCC",
+        "legalBalance": "17230186.83",
+        "totalCases": "113"
+    },
+    {
+        "department": "FDA",
+        "status": "REPAYMENT/SETTLEMENT",
+        "legalBalance": "7414900.37",
+        "totalCases": "39"
+    },
+    {
+        "department": "FDA",
+        "status": "BANKRUPTCY",
+        "legalBalance": "141925.22",
+        "totalCases": "6"
+    },
+    {
+        "department": "FDA",
+        "status": "AT PRIVATE COLLECTION AGENCY",
+        "legalBalance": "1453857.9",
+        "totalCases": "220"
+    },
+    {
+        "department": "FDA",
+        "status": "AT TREASURY-CROSS SERVICING",
+        "legalBalance": "17866308.93",
+        "totalCases": "549"
+    },
+    {
+        "department": "HRSA",
+        "status": "AT PSC DCC",
+        "legalBalance": "76631780.47",
+        "totalCases": "408"
+    },
+    {
+        "department": "HRSA",
+        "status": "REPAYMENT/SETTLEMENT",
+        "legalBalance": "38779870.36",
+        "totalCases": "179"
+    },
+    {
+        "department": "HRSA",
+        "status": "BANKRUPTCY",
+        "legalBalance": "11789136.16",
+        "totalCases": "19"
